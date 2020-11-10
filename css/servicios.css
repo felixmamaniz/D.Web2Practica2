@@ -125,8 +125,13 @@ header label {
     color: black;
 }
 
-#banner h2 {
-    font-size: 28px;
+#banner .serv {
+    background-color: #fff;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    filter:alpha(opacity=60); 
+    opacity:.6;
 }
 
 #banner a {
